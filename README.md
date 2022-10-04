@@ -1,7 +1,6 @@
 
 
 # TCP Personal VPN
-#### Based on Shadowsocks with V2Ray-plugin
 
 ## 0.Requirements
 
