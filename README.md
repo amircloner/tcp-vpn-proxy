@@ -42,7 +42,7 @@ PORT : Server port. Ex: 80
 
 ```
 ```console
- docker run -d --restart=always -p 80:{PORT} --env Domain={Domain} --env Password={Password} --env PORT={PORT} amircloner/tcp-vpn-proxy:v1.0.0
+ docker run -d --restart=always -p {PORT}:{PORT} --env Domain={Domain} --env Password={Password} --env PORT={PORT} amircloner/tcp-vpn-proxy:v1.0.0
  ```
   
 ### 1.5 Connect Server to ArvanCloud CDN
@@ -56,7 +56,7 @@ PORT : Server port. Ex: 80
  6. Create new Records (Subdomain) that equal to {Domain} point to server IP
  7. Check Arvan CDN is Enable
  8. Origin server connection protocol > HTTP
- 9. Set {PORT} and {Server IP}
+ 9. Set {PORT} and Server IP
 
 ### 1.6 Verification Server
 
