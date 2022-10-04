@@ -20,7 +20,7 @@ curl -sSL https://gist.github.com/amircloner/4305b461df40616a1c4c432b3619af82/ra
 ```
 ### 1.2 Clone Github Project
 ```console
-git clone https://github.com/amircloner/tcp-vpn-proxy.git
+git clone https://github.com/amircloner/tcp-vpn-proxy.git && cd tcp-vpn-proxy
 ```
 
 ### 1.3 Build Dockerfile
