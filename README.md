@@ -6,7 +6,7 @@
 
  1. Valid Domain Name Recommended **.ir**
  2. [ArvanCloud](https://arvancloud.com) Account
- 3. [Doprax](https://www.doprax.com) Account Or Other PaaS, Any Debian Servers the help of DockerFile
+ 3. PaaS Or Any Debian Servers the help of DockerFile
  4. Minimum Server Requirements (**RAM:** 256 MB, **CPU:** 0.5, **Disk:** 10G **Location:** out of IRAN)
  5. Random Password ([Online UUID Generator](https://www.uuidgenerator.net/))
 
