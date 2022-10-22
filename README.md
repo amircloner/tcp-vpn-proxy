@@ -2,6 +2,10 @@
 
 # ArvanCloud No Filter VPN
 
+### ⚠ Attention ⚠
+#### 1. This repository scanned with VirusTotal: [view result](https://www.virustotal.com/gui/url/04b321f9d729e438340b1d4c0b6c7f1a2fad57f6d6e4fea6c83af9803e524a1f)
+#### 2. If see `Fail to detect internet connection: Unable to resolve host "cp.cloudflare.com".No address associated w.."` when client connect to server check this link [issue link](https://github.com/amircloner/tcp-vpn-proxy/issues/1)
+
 ## 0.Requirements
 
  1. Valid Domain Name Recommended **.ir**
