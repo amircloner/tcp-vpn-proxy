@@ -58,7 +58,7 @@ PORT : Server port. Ex: 80
  5. In CDN > DNS Records
  6. Create new Records (Subdomain) that equal to {Domain} point to server IP
  7. Check Arvan CDN is Enable
- 8. Enable SSL
+ 8. Enable SSL Arvan CDN
  9. Origin server connection protocol > HTTP
  10. Set {PORT} and Server IP
 
